@@ -1,0 +1,1 @@
+// Perform and log the result of 45 * 2 – 10.
