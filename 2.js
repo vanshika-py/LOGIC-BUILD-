@@ -1,9 +1,9 @@
-// Log your name and favourite hobby to the console
+// Log your name and favourite hobby to the console.........
 
-let name = "vanshikaKathpal";
+// let name = "vanshikaKathpal";
 
-let hobby = "exploringnewThings";
+// let hobby = "exploringnewThings";
 
 
-console.log(`FOUNDER NAME IS ${name} AND HER FAVOURITE HOBBY IS ${hobby}`);
+// console.log(`FOUNDER NAME IS ${name} AND HER FAVOURITE HOBBY IS ${hobby}`);
 
