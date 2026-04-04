@@ -4,4 +4,7 @@
 
 var DOB = 28;
 //before update//
+// console.log(DOB);
+
+DOB = 11;
 console.log(DOB);
