@@ -9,14 +9,29 @@
 // DOB = 11;
 // console.log(DOB);
 
+
+
 //In case of let----------------------//
 
 //BEFORE UPDATING//
 
-let DOB = 28;
+// let DOB = 28;
 // console.log(DOB);
 
 //After UPDATING//
 
+// DOB = 11;
+// console.log(DOB);
+
+//In case of Const//
+
+//before updating
+const DOB = 28;
+// console.log(DOB);
+
+//after updating
 DOB = 11;
 console.log(DOB);
+
+
+
