@@ -1,5 +1,8 @@
 // Use console.log() to display the current year.
 
-let result = year();
+let date = new Date();
+let year = date.getFullYear();
+// let result = year();
 
-console.log(result)
+ console.log(date);
+
