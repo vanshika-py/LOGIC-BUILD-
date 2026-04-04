@@ -14,4 +14,9 @@
 //BEFORE UPDATING//
 
 let DOB = 28;
+// console.log(DOB);
+
+//After UPDATING//
+
+DOB = 11;
 console.log(DOB);
