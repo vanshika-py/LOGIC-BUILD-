@@ -4,4 +4,5 @@ let First_Name = "Vanshika";
 let Last_Name = "Kathpal";
 
 
-console.log(First_Name + " " + Last_Name);
+// console.log(First_Name + " " + Last_Name);
+console.log(`${First_Name} ${Last_Name}`);
