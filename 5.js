@@ -26,12 +26,12 @@
 //In case of Const//
 
 //before updating
-const DOB = 28;
-// console.log(DOB);
+// const DOB = 28;
+// // console.log(DOB);
 
-//after updating
-DOB = 11;
-console.log(DOB);
+// //after updating
+// DOB = 11;
+// console.log(DOB); // error
 
 
 

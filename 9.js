@@ -1,0 +1,1 @@
+// Use a while loop to sum the numbers from 1 to 10.

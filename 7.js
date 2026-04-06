@@ -1,0 +1,1 @@
+// Log the square of the number 12 to the console.
