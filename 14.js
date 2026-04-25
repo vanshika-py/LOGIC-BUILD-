@@ -20,11 +20,11 @@
 
 // let arr = [1,2,3,4]; 
 
-let arr = [7,9,4,6];
+// let arr = [7,9,4,6];
 
 
 
 
-for(let i = arr.length-1 ; i >= 0; i--){
-    console.log(arr[i]);
-}
+// for(let i = arr.length-1 ; i >= 0; i--){
+//     console.log(arr[i]);
+// }
