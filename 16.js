@@ -55,15 +55,23 @@
 //   }
 // }
 
+//  Check if a number is prime.
+// let num = 10; 
 
-let num = 10; 
+// let num = 11;
 
+let num = 25;
 for(let i = 1; i<= num; i++){
   if(num%i === 0 && num!=i && i!= 1){
   console.log("not prime")
+  break;
+  }
+
+ 
+  if(i == num){
+    console.log("prime");
   }
 }
- console.log("prime");
 
  
   
