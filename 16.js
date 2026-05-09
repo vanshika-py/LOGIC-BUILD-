@@ -40,19 +40,30 @@
 // }
 
 
-let num = 15;
+// let num = 15;
 
-for(let i = 1; i <= num; i++){
-    if(num%i === 0){
-        if(i%num === 1){
-            continue;
-        }
-        console.log("not prime")
-        break;
-    }
-  else{
-    console.log("prime")
+// for(let i = 1; i <= num; i++){
+//     if(num%i === 0){
+//         if(i%num === 1){
+//             continue;
+//         }
+//         console.log("not prime")
+//         break;
+//     }
+//   else{
+//     console.log("prime")
+//   }
+// }
+
+
+let num = 10; 
+
+for(let i = 1; i<= num; i++){
+  if(num%i === 0 && num!=i && i!= 1){
+  console.log("not prime")
   }
 }
+ console.log("prime");
 
+ 
   
